@@ -10,9 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
-  in_app_review_platform_interface: ^2.0.3
-  
+  url_launcher:
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

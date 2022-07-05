@@ -1,6 +1,5 @@
 import 'dart:async';
-
-import 'package:in_app_review_platform_interface/in_app_review_platform_interface.dart';
+import 'in_app_review_platform_interface.dart';
 
 class InAppReview {
   InAppReview._();

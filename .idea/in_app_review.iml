@@ -3,17 +3,25 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/in_app_review/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/in_app_review/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/in_app_review/build" />
       <excludeFolder url="file://$MODULE_DIR$/in_app_review_platform_interface/build" />
       <excludeFolder url="file://$MODULE_DIR$/in_app_review_platform_interface/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/in_app_review_platform_interface/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/in_app_review/example/build" />
-      <excludeFolder url="file://$MODULE_DIR$/in_app_review/example/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/in_app_review/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_rating_app/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

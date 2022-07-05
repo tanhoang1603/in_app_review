@@ -1,5 +1,6 @@
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:in_app_review_platform_interface/method_channel_in_app_review.dart';
+
+import 'method_channel_in_app_review.dart';
 
 /// The interface that implementations of in_app_review must implement.
 ///
